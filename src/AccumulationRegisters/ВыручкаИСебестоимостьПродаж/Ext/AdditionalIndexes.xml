@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AdditionalIndexes xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<AdditionalIndex id="5dd3e46c-d960-4a3d-8e62-5e799351d2df">
+		<Name>ИндексПоЗаказамИАналитике</Name>
+		<Table>AccumulationRegister.ВыручкаИСебестоимостьПродаж</Table>
+		<IndexedFields>
+			<Field>ЗаказКлиента</Field>
+			<Field>АналитикаУчетаНоменклатуры</Field>
+			<Field>АналитикаУчетаПоПартнерам</Field>
+			<Field>Партия</Field>
+			<Field>Period</Field>
+			<Field>Recorder</Field>
+			<Field>LineNumber</Field>
+		</IndexedFields>
+		<AdditionalFields/>
+	</AdditionalIndex>
+</AdditionalIndexes>
